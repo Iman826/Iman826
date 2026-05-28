@@ -16,6 +16,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Iman826.Iman826&"  />
 </div>
 
+<p align="right">
+  <a href="https://github.com/alsiam">
+    <img src="https://komarev.com/ghpvc/?username=alsiam&label=Profile%20Views&color=0070F3&style=flat" alt="Profile Views" />
+  </a>
+</p>
+
 ###
 
 <h1 align="center">🤖 Teaching machines to think | Still learning myself</h1>
