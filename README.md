@@ -32,7 +32,7 @@ But being an AI Engineer, I am more Product Oriented than Material Oriented. So 
   
 ![](https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&perline=10)
 
-## My Stats:
+## My Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iman826&theme=moltack)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iman826&theme=moltack)
@@ -40,4 +40,10 @@ But being an AI Engineer, I am more Product Oriented than Material Oriented. So 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iman826&theme=moltack)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iman826&theme=moltack&utcOffset=5)
 
-###
+## Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iman826/Iman826/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iman826/Iman826/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Iman826/Iman826/output/github-snake-dark.svg" width="100%">
+</picture>
