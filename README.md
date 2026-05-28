@@ -45,5 +45,5 @@ But being an AI Engineer, I am more Product Oriented than Material Oriented. So 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iman826/Iman826/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iman826/Iman826/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Iman826/Iman826/output/github-snake-dark.svg" width="100%">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Iman826/Iman826/output/github-snake.svg" width="100%">
 </picture>
