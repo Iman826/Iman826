@@ -32,7 +32,7 @@ But being an AI Engineer, I am more Product Oriented than Material Oriented. So 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&perline=10">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&theme=light&perline=10">
-  <img src="https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&perline=10" width="100%">
+  <img src="https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&perline=10" >
 </picture>
 
 ## My Stats
