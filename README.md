@@ -13,7 +13,23 @@
 [![](https://custom-icon-badges.demolab.com/badge/LinkedIn-111?logo=linkedin-white&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/imanfatima7128)
 [![](https://img.shields.io/badge/Discord-111.svg?logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge)](https://discord.gg/iman_fatima.)
 
-![](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=50&lines=AI-Engineer+%7C+Data+Analyst+%7c+Software+Engineer;Interested+in+Innovation,+Creativity,+Uniqueness;Air+University,+Islamabad)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=50&lines=AI-Engineer+%7C+Data+Analyst+%7c+Software+Engineer;Interested+in+Innovation,+Creativity,+Uniqueness;Air+University,+Islamabad"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=50&lines=AI-Engineer+%7C+Data+Analyst+%7c+Software+Engineer;Interested+in+Innovation,+Creativity,+Uniqueness;Air+University,+Islamabad"
+  />
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=50&lines=AI-Engineer+%7C+Data+Analyst+%7c+Software+Engineer;Interested+in+Innovation,+Creativity,+Uniqueness;Air+University,+Islamabad"
+  />
+</picture>
+
+![]()
 
 
 ## About Me
