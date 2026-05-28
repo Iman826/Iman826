@@ -29,9 +29,6 @@
   />
 </picture>
 
-![]()
-
-
 ## About Me
 
 <div align="left">
