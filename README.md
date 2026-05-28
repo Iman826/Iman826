@@ -1,6 +1,6 @@
 <div align="right">
   
-<!--![Laptop](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNmMTZwZ2MzZWgyeDJxamZ2YWMwaDM4dTN4N2NtNWYyNHo4OGpyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif)-->
+<!--![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNmMTZwZ2MzZWgyeDJxamZ2YWMwaDM4dTN4N2NtNWYyNHo4OGpyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif)-->
 
 ###
 
@@ -23,20 +23,18 @@ I have utilized C++, C#, Python, HTML/CSS/JS for my projects in my Projects, giv
 
 But being an AI Engineer, I am more Product Oriented than Material Oriented. So my majors are predominantly Machine Learning, Data Analysis, Data Visualization.
 
-
 <div align="center">
 
 ## Language and tools
   
-![](https://skillicons.dev/icons?i=js,github,vscode,python,html,css,tensorflow,pytorch,qt,mysql,pycharm,sci-kit,scipy,opencv,pandas,matlab,cplusplus,csharp,canva&theme=dark&perline=10)
+![](https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&perline=10)
 
 ## My Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iman826&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iman826&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iman826&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iman826&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/streak-stats?username=Iman826&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iman826&theme=dracula&utcOffset=5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iman826&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iman826&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iman826&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iman826&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iman826&theme=tokyonight&utcOffset=5)
 
 ###
