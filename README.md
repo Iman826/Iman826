@@ -29,11 +29,9 @@ But being an AI Engineer, I am more Product Oriented than Material Oriented. So 
 <div align="center">
 
 ## Language and tools
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&perline=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&theme=light&perline=10">
-  <img src="https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&perline=10" >
-</picture>
+
+![](https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&perline=10#gh-dark-mode-only)
+![](https://skillicons.dev/icons?i=sklearn,arduino,cs,cpp,css,github,html,javascript,matlab,mysql,opencv,qt,pytorch,py,tensorflow,vscode,visualstudio,figma,flask,django&theme=light&perline=10#gh-light-mode-only)
 
 ## My Stats
 
