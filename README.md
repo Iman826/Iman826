@@ -27,7 +27,7 @@
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=50&lines=AI-Engineer+%7C+Data+Analyst+%7c+Software+Engineer;Interested+in+Innovation,+Creativity,+Uniqueness;Air+University,+Islamabad"
+    src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=50&lines=AI-Engineer+%7C+Data+Analyst+%7c+Software+Engineer;Interested+in+Innovation,+Creativity,+Uniqueness;Air+University,+Islamabad"
   />
 </picture>
 
