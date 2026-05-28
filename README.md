@@ -1,9 +1,11 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNmMTZwZ2MzZWgyeDJxamZ2YWMwaDM4dTN4N2NtNWYyNHo4OGpyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"  />
-</div>
+  
+![Laptop](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNmMTZwZ2MzZWgyeDJxamZ2YWMwaDM4dTN4N2NtNWYyNHo4OGpyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif)
 
 ###
 
+<div align="center">
+  
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-111?logo=linkedin-white&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/imanfatima7128)
 [![Discord](https://img.shields.io/badge/Discord-111.svg?logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge)](https://discord.gg/iman_fatima.)
 
@@ -11,7 +13,7 @@
 
 <p align="right">
   <a href="https://github.com/Iman826">
-    <img src="https://komarev.com/ghpvc/?username=Iman826&label=Profile%20Views&color=0070F3&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Iman826&label=Profile%20Views&color=0070F3&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
