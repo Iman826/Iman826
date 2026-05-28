@@ -34,11 +34,31 @@ But being an AI Engineer, I am more Product Oriented than Material Oriented. So 
 
 ## My Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iman826&theme=omni)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iman826&theme=omni)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iman826&theme=omni)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iman826&theme=omni)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iman826&theme=omni&utcOffset=5)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iman826&theme=omni">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iman826&theme=moltack">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iman826&theme=omni" width="100%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iman826&theme=omni">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iman826&theme=moltack">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iman826&theme=omni" width="40%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iman826&theme=omni">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iman826&theme=moltack">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iman826&theme=omni" width="40%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iman826&theme=omni">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iman826&theme=moltack">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iman826&theme=omni" width="40%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iman826&theme=omni&utcOffset=5">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iman826&theme=moltack&utcOffset=5">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iman826&theme=omni&utcOffset=5" width="40%">
+</picture>
 
 ## Contributions:
 
